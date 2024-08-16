@@ -1,0 +1,6 @@
+[submodule "Food-store-frontend"]
+	path = Food-store-frontend
+	url = https://github.com/Quangnguyen1505/Food-store-frontend.git
+[submodule "Food-store-backend"]
+	path = Food-store-backend
+	url = https://github.com/Quangnguyen1505/Food-store-backend.git
